@@ -1,0 +1,4 @@
+Bloggerita
+==========
+
+Pelican hosted blog
